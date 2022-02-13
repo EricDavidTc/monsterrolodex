@@ -5,3 +5,6 @@ My first React app!What was implemented:
 ▪️map(), filter()
 ▪️returning search result from two different parameters
 ▪️deploying a react app to git hub pgs
+
+
+page link: https://ericdavidtc.github.io/monsterrolodex/
